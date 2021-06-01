@@ -1,8 +1,8 @@
 <header>
 <h1> tourdutogo
 
-http://tourdutogo/about.html
-http://tourdutogo/about.htlm
-http://tourdutogo/contact.html
+├── about.md    # => http://example.com/about.html
+├── index.html    # => http://example.com/
+└── contact.html  # => http://example.com/contact.htm
 
 Bienvenu au Togo
